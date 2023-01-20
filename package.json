@@ -1,0 +1,22 @@
+{
+  "name": "local-gpt",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000l\u0000o\u0000c\u0000a\u0000l\u0000-\u0000g\u0000p\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcheung824/local-gpt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcheung824/local-gpt/issues"
+  },
+  "homepage": "https://github.com/jcheung824/local-gpt#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
